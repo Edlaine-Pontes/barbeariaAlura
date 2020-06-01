@@ -18,6 +18,10 @@ html, body {
     background-size: cover; /*a imagem terá as dimensões de modo a que sua menor dimensão ocupe toda a extensão do box e a maior dimensão seja tal que o aspect ratio (relação entre largura e altura) seja preservado: */
 }
 
+.principal {
+    color: #c78c19;
+}
+
 .banner h2 {
     font-size: 2.5rem;
     font-weight: 900;
